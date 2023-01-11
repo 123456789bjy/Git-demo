@@ -2,9 +2,8 @@ hello world
 sdas
 asdasdsad
 asdasd
+<<<<<<< HEAD
 sadasdassadassadas
 asdasdsad
+isdasi
 
-
-
-i
